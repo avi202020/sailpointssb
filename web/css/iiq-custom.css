@@ -12,6 +12,10 @@ are listed below.
 body,
 body.x-border-layout-ct {
 }
+.bg-primary {
+ 
+  background-color: #c42b00;
+}
 
 .borderCell {
 }
